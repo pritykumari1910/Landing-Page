@@ -1,0 +1,23 @@
+/* Theme */
+
+main {
+	 height: 100%;
+  width: 100%;
+  z-index: 1;
+  background-image: url("/img/back.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons-social a {
+	color: #ffffff;
+}
+
+.icons-social a svg path{
+	fill: #ffffff;
+}
